@@ -15,6 +15,5 @@ jobs:
   goodbye:
     runs-on: ubuntu_latest
     steps:
-      - name: goodbye
       - run: echo "goodbye"
         shell: bash
